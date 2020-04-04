@@ -10,3 +10,7 @@ Then the program take images of every face it recognize and saves 1 copy of each
 
 The last step is sending the image to google search by image and reciving the data from there and renameing the video after the
 recognized pornstar.(Currently having no idea how to do this)
+
+It has two file:
+1. frame.py for filtering the videos according to frame height.
+2. VideoFrameFilter.py for recognizing and searching the person.
